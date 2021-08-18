@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>43646001573-mujlmv0rfs9t5fb166nm3hbp2jvpei3p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.43646001573-mujlmv0rfs9t5fb166nm3hbp2jvpei3p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDm33L0XBuA9fQo1NKQVPnIAsfqj--jDk4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>43646001573</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>PomoykaCorp..StudyingApp</string>
+	<key>PROJECT_ID</key>
+	<string>studyingapp-f28ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studyingapp-f28ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:43646001573:ios:50eb58f4054d897b00884c</string>
+	<key>DATABASE_URL</key>
+	<string>https://studyingapp-f28ac-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
